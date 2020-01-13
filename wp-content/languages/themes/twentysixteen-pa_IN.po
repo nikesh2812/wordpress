@@ -1,0 +1,330 @@
+# Translation of Themes - Twenty Sixteen in Punjabi
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-08 11:48:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pa_IN\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr "ਵੀਹ ਸੋਲ੍ਹਾਂ"
+
+#. Description of the plugin/theme
+msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr "ਵੀਹ ਸੋਲ੍ਹਾਂ ਇਕ ਨਵੀਂ ਲੇਆਉਟ ਹੈ ਜੋ ਕਿ ਬਲੌਗ ਅਤੇ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਬਿਲਕੁਲ ਟਿਕਾਊ ਥੀਮ ਹੈ। ਇਸ ਵਿੱਚ ਤੁਸੀ ਆਪਣੀਂ ਪਸੰਦ ਦੇ ਰੰਗ ਚੁਣ ਸਕਦੇ ਹੋ ਅਤੇ ਇਹ ਥੀਮ ਮੋਬਾਇਲ-ਪਹਿਲ ਤਕਨੀਕ ਨਾਲ ਬਣਾਈ ਗਈ ਹੈ। ਵੀਹ ਸੋਲ੍ਹਾਂ ਨਾਲ ਤੁਹਾਡੀ ਵਰਡਪੈ੍ਸ ਵੈੱਬਸਾਈਟ ਹਰ ਪਾਸੇ ਤੋਂ ਬਹੁਤ ਸੋਹਣੀ ਲੱਗੇਗੀ।"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:194 template-parts/content.php:29
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\"</span> ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖੋ।"
+
+#. translators: %s: Name of current post
+#: image.php:88 template-parts/content-page.php:39
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:47 template-parts/content.php:53
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\"</span> ਸੋਧੋ"
+
+#: inc/customizer.php:324
+msgid "Red"
+msgstr "ਲਾਲ"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; 'ਤੇ ਇੱਕ ਵਿਚਾਰ"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "ਖੋਜੋ"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "ਖੋਜੋ &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "ਖੋਜੋ (ਇਸ ਲਈ):"
+
+#: footer.php:30
+msgid "Footer Social Links Menu"
+msgstr "ਪਦਲੇਖ ਦਾ ਸਮਾਜਿਕ ਕੜੀਆਂ ਵਾਲਾ ਮੇਨੂ"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "ਪਦਲੇਖ ਦਾ ਮੁੱਢਲਾ ਮੇਨੂ"
+
+#: functions.php:167
+msgid "Add widgets here to appear in your sidebar."
+msgstr "ਸਾਈਡਬਾਰ ਵਿੱਚ ਦਿਖਾਉਣ ਲਈ ਵਿਜਟ ਇੱਥੇ ਜੋੜੋ।"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "ਚੁਣਿਆ ਹੋਇਆ"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ਜੋ ਤੁਸੀਂ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ ਉਹ ਨਹੀਂ ਲੱਭਿਆ। ਸ਼ਾਇਦ ਖੋਜਣ ਨਾਲ ਤੁਹਾਨੂੰ ਮਦਦ ਮਿਲ ਸਕਦੀ ਹੈ।"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ਮੁਆਫ਼ ਕਰਨਾ, ਪਰ ਖੋਜ ਲਈ ਤੁਹਾਡੇ ਦੁਆਰਾ ਵਰਤੇ ਗਏ ਸ਼ਬਦ ਨਾਲ ਮੇਲ ਖਾਂਦੀ ਕੋਈ ਚੀਜ਼ ਨਹੀਂ ਲੱਭੀ। ਕਿਰਪਾ ਕਰਕੇ ਕਿਸੇ ਹੋਰ ਸ਼ਬਦ ਨਾਲ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "ਕੀ ਤੁਸੀਂ ਆਪਣੀ ਪਹਿਲੀ ਸੰਪਾਦਨਾ ਛਾਪਣ ਲਈ ਤਿਆਰ ਹੋ? <a href=\"%1$s\">ਇੱਥੇ ਸ਼ੁਰੂ ਕਰੋ</a>।"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "ਕੁਝ ਨਹੀ ਲੱਭਾ"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "%s ਦੀਆਂ ਸਾਰੀਆਂ ਸੰਪਾਦਨਾਂ ਦੇਖੋ"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "ਲੇਖਕ"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "ਪਿਛਲੀ ਸੰਪਾਦਨਾ"
+
+#: single.php:41
+msgid "Previous"
+msgstr "ਪਿਛਲਾ"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "ਅਗਲੀ ਸੰਪਾਦਨਾ"
+
+#: single.php:38
+msgid "Next"
+msgstr "ਅਗਲਾ "
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s ਲਈ ਖੋਜ ਨਤੀਜੇ"
+
+#: inc/template-tags.php:112
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "ਟੈਗ"
+
+#: inc/template-tags.php:103
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "ਸ਼੍ਰੇਣੀਆਂ"
+
+#: inc/template-tags.php:99 inc/template-tags.php:108
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:83
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "ਸੰਪਾਦਿਤ ਹੋਇਆ"
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "ਬਣਾਵਟ"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s 'ਤੇ</span> ਟਿੱਪਣੀ ਕਰੋ।"
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "ਲੇਖਕ"
+
+#: inc/customizer.php:334
+msgid "Yellow"
+msgstr "ਪੀਲਾ"
+
+#: inc/customizer.php:314
+msgid "Gray"
+msgstr "ਸਲੇਟੀ"
+
+#: inc/customizer.php:304
+msgid "Dark"
+msgstr "ਗੂੜ੍ਹਾ"
+
+#: inc/customizer.php:204
+msgid "Main Text Color"
+msgstr "ਮੁੱਖ ਲਿਖਤ ਰੰਗ"
+
+#: inc/customizer.php:294
+msgid "Default"
+msgstr "ਮੂਲ"
+
+#: inc/customizer.php:222
+msgid "Secondary Text Color"
+msgstr "ਦੂਜਾ ਲਿਖਤ ਰੰਗ"
+
+#: inc/customizer.php:186
+msgid "Link Color"
+msgstr "ਕੜੀ ਦਾ ਰੰਗ"
+
+#: inc/customizer.php:165
+msgid "Page Background Color"
+msgstr "ਪੰਨਾ-ਪਿਛੋਕੜ ਰੰਗ"
+
+#: image.php:107 single.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">ਸੰਪਾਦਿਤ ਹੋਇਆ (ਵਿੱਚ)</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:54 inc/back-compat.php:70
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "ਵੀਹ ਸੋਲ੍ਹਾਂ ਲਈ ਵਰਡਪ੍ਰੈਸ ਦਾ ਸੰਸਕਰਣ ਘੱਟ ਤੋਂ ਘੱਟ 4.4 ਹੋਣਾ ਜ਼ਰੂਰੀ ਹੈ। ਤੁਹਾਡੇ ਵਰਡਪ੍ਰੈਸ ਦਾ ਸੰਸਕਰਣ %s ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਵਰਡਪ੍ਰੈਸ ਨੂੰ ਉੱਨਤ/ਅਪਡੇਟ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#: inc/customizer.php:145
+msgid "Base Color Scheme"
+msgstr "ਮੁੱਢਲੇ ਰੰਗ"
+
+#: image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "ਪੂਰਾ ਆਕਾਰ"
+
+#: image.php:58 template-parts/content-page.php:24
+#: template-parts/content-single.php:26 template-parts/content.php:36
+msgid "Pages:"
+msgstr "ਪੰਨੇ:"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "ਅਗਲੀ ਤਸਵੀਰ"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "ਪਿਛਲਾ ਚਿੱਤਰ "
+
+#: header.php:49
+msgid "Menu"
+msgstr "ਸੂਚੀ"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "ਸਿੱਧਾ ਸਮੱਗਰੀ 'ਤੇ ਜਾਓ"
+
+#: functions.php:301
+msgid "expand child menu"
+msgstr "ਛੋਟਾ ਮੇਨੂ ਫੈਲਾਓ"
+
+#: functions.php:302
+msgid "collapse child menu"
+msgstr "ਛੋਟਾ ਮੇਨੂ ਇਕੱਠਾ ਕਰੋ"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:227
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "ਚਾਲੂ"
+
+#: functions.php:177
+msgid "Content Bottom 1"
+msgstr "ਹੇਠਲਾ ਪਾਸਾ 1"
+
+#: functions.php:179 functions.php:191
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "ਸੰਪਾਦਨਾਂ ਅਤੇ ਪੰਨਿਆਂ ਦੀ ਸਮੱਗਰੀ ਦੇ ਹੇਠਾਂ ਦਿਖਾਈ ਦੇਵੇਗਾ।"
+
+#: functions.php:189
+msgid "Content Bottom 2"
+msgstr "ਹੇਠਲਾ ਪਾਸਾ 2"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:217
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "ਚਾਲੂ"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:222
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "ਚਾਲੂ"
+
+#: functions.php:165
+msgid "Sidebar"
+msgstr "ਸਾਈਡਬਾਰ"
+
+#: functions.php:92 header.php:66
+msgid "Social Links Menu"
+msgstr "ਸਮਾਜਿਕ ਕੜੀਆਂ ਵਾਲਾ ਮੇਨੂ"
+
+#: functions.php:91 header.php:53
+msgid "Primary Menu"
+msgstr "ਮੁੱਢਲਾ ਮੇਨੂ"
+
+#: footer.php:61
+msgid "Proudly powered by %s"
+msgstr "%s ਨਾਲ ਜਾਰੀ"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "ਟਿਪਣੀਆਂ ਬੰਦ ਹਨ "
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; 'ਤੇ %1$s ਵਿਚਾਰ"
+msgstr[1] "&ldquo;%2$s&rdquo; 'ਤੇ %1$s ਵਿਚਾਰ"
+
+#: archive.php:53 image.php:62 index.php:50 search.php:41
+#: template-parts/content-page.php:28 template-parts/content-single.php:30
+#: template-parts/content.php:40
+msgid "Page"
+msgstr "ਪੰਨਾ"
+
+#: archive.php:52 index.php:49 search.php:40
+msgid "Next page"
+msgstr "ਅਗਲਾ ਪੰਨਾ"
+
+#: archive.php:51 index.php:48 search.php:39
+msgid "Previous page"
+msgstr "ਪਿਛਲਾ ਪੰਨਾ"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ਇਸ ਜਗ੍ਹਾ 'ਤੇ ਕੁਝ ਨਹੀਂ ਲੱਭਿਆ। ਖੋਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋਗੇ?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ਅਫਸੋਸ! ਉਹ ਪੰਨਾ ਨਾ ਲੱਭਿਆ"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "ਵਰਡਪ੍ਰੈਸ ਟੀਮ"
+
+#. #-#-#-#-#  twentysixteen.pot (Twenty Sixteen 1.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:60
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

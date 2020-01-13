@@ -1,0 +1,44 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+
+
+# add a trailing slash to /wp-admin
+RewriteRule ^([_0-9a-zA-Z-]+/)?wp-admin$ $1wp-admin/ [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?(wp-(content|admin|includes).*) $2 [L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?(.*\.php)$ $2 [L]
+RewriteRule . index.php [L]
+
+
+php_value max_execution_time 5000000
+
+php_value upload_max_filesize 256M
+php_value post_max_size 256M
+php_value memory_limit 256M
+
+Options All -Indexes
+
+# Block WordPress xmlrpc.php requests
+<Files xmlrpc.php>
+order deny,allow
+deny from all
+</Files>
+
+<IfModule mod_headers.c>
+   Header set Referrer-Policy "strict-origin-when-cross-origin"
+   Header set X-XSS-Protection "1; mode=block"
+   Header set X-Content-Type-Options "nosniff"
+   Header set X-Frame-Options "SAMEORIGIN"
+   Header set Strict-Transport-Security "max-age=31536000"
+   Header unset X-Powered-By
+</IfModule>
+
+#<Files *.css>
+#order deny,allow
+#deny from all
+#</Files>
+

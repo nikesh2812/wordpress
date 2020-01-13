@@ -1,0 +1,347 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+html[lang="pa-IN"] .w-date{
+    width: 70px !important;
+}
+html[lang="pa-IN"] .cspw-container{
+    width: 65% !important;
+}
+#adswsc_block{
+text-align:left;
+}
+.c-more-pos,.mayor-text,.represant-top{
+  margin-top:-48px;
+}
+.ubermenu .ubermenu-icon{
+display:none;
+}
+.ubermenu-nav li.home > a:before{
+content:url(https://punjab-portal-beta.egovernments.org/wp-content/uploads/2018/04/home.png)
+} 
+.ubermenu-nav li.about > a:before{
+content:url(https://punjab-portal-beta.egovernments.org/wp-content/uploads/2018/04/about.png)
+} 
+.ubermenu-nav li.info > a:before{
+content:url(https://punjab-portal-beta.egovernments.org/wp-content/uploads/2018/04/info.png)
+}
+.ubermenu-nav li.news > a:before{
+content:url(https://punjab-portal-beta.egovernments.org/wp-content/uploads/2018/04/news.png)
+}
+.ubermenu-nav li.gallery > a:before{
+content:url(https://punjab-portal-beta.egovernments.org/wp-content/uploads/2018/04/gallery.png)
+}
+
+.ubermenu-nav li > a:before{
+position:relative;
+top:2px;
+}
+.clearfix {
+    float: none;
+    clear: both;
+}
+#minus{
+  margin-top:5px;
+  float:left;
+width: 15px !important;
+height: 15px !important;
+}
+#plus{
+  margin-top:0px;
+  float:right;
+width: 25px !important;
+height: 25px !important;
+}	
+.w-temp .simple-weather-widget .temp .degrees:after {
+    content: '\f0c2';
+    font-family: FontAwesome;
+      font-size: 18px;
+}
+.cs-module-textarea img{
+      margin-top: 3.5px;
+float:right;
+}
+#colophon > .container > .row > div:nth-child(5){
+display:none;
+}
+
+
+
+@media screen and (max-width: 1023px) {
+.minister-details {margin-top: 20px;}
+} 
+
+@media (min-width: 992px){
+#colophon > .container > .row > div:last-child.col-md-2 {
+    width: 33.3333333333%;
+      text-align: right;
+}
+}
+.menu-imp-links li:last-child.view-all-li{
+color: #428bca;
+    text-transform: uppercase;
+    font-size: 16px;
+	}
+.view-link {
+    position: relative !important; 
+ 
+}
+.ubermenu-skin-black-white-2 .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target,
+.ubermenu-skin-black-white-2 .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target,
+.ubermenu-skin-black-white-2 .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target {
+ background:#257398 !important; 
+}
+.ubermenu-skin-black-white-2 .ubermenu-item-level-0:hover > .ubermenu-target,
+.ubermenu-skin-black-white-2 .ubermenu-item-level-0.ubermenu-active > .ubermenu-target {
+ background:#257398 !important; 
+}
+body .ubermenu-skin-black-white-2 {
+    border: 0px solid #039be6 !important;
+}
+.ubermenu .ubermenu-submenu-type-flyout>.ubermenu-item.ubermenu-active {
+    z-index: 50;
+    background: #F2F2F2;
+}
+.ubermenu .ubermenu-submenu-type-flyout>.ubermenu-item.ubermenu-active ul li:hover {
+  background: #F2F2F2;
+}
+.ubermenu .ubermenu-submenu-type-flyout>.ubermenu-item {
+    display: block;
+    float: none;
+    position: relative;
+    min-width: 190px;
+}
+.d-btn {
+    background: #039BE6;
+    color: #fff !important;
+    font-size: 20px;
+    padding: 3px 8px;;
+    margin-bottom: 10px;
+    text-decoration: none !important;
+}
+.d-btn font{
+      font-size: 70% !important;
+}
+  
+.input-group {
+    border-bottom: 0px solid #fafafa !important;
+}
+ #colophon .route_widget .widget-title h4{
+color: #fff !important;
+    font-size: 16px !important;
+	font-family: "Open Sans", Arial, sans-serif !important;
+	font-style: normal !important;
+    font-weight: 600 !important;
+      text-transform: uppercase !important;
+      margin-bottom: 10px !important;
+}
+body .imp-links ul li.view-all-li{
+margin-bottom:0px;
+  padding-bottom:0px;
+}
+p.mb-0 {
+    margin-bottom: 0px;
+}
+.inner-wrap.min-height {
+    min-height: 350px;
+}
+.home .c-news.inner-wrap{
+overflow-y: hidden;
+padding:0px;
+}
+ .cs-column-text.content-body{
+ padding-top: 20px;
+    height: 340px;
+    overflow-y: scroll;
+	}
+.cs-column-text.content-body::-webkit-scrollbar {
+    width: 0.7em;
+    border-radius:10px;
+}
+.cs-column-text.content-body::-webkit-scrollbar-thumb {
+  background-color: #c1c1c1;
+  outline: 1px solid #f1f1f1;
+  border-radius:10px;
+}	
+.cs-column-text.btn-div{
+margin-bottom:20px !important;
+}
+.d-flex{
+
+    padding: 130px 0px;
+    font-size: 23px;}
+.d-flex .fa{font-size: 40px;}
+.project-list .proj-banner{
+max-width:200px;
+float:left;
+margin-right:15px;
+margin-bottom:15px;
+}
+.page-template:not(.home) .inner-wrap{
+margin-bottom: 10px;
+    padding: 15px 15px 15px;
+    position: relative;
+    height: 350px;
+    overflow-y: scroll;
+}
+.page-template:not(.home) .inner-wrap::-webkit-scrollbar {
+    width: 0.7em;
+    border-radius:10px;
+}
+.page-template:not(.home) .inner-wrap::-webkit-scrollbar-thumb {
+  background-color: #c1c1c1;
+  outline: 1px solid #f1f1f1;
+  border-radius:10px;
+}
+.table-responsive {
+  min-height: .01%;
+  overflow-x: auto;
+}
+@media screen and (max-width: 767px) {
+  .table-responsive {
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-y: hidden;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  
+  }
+.news-image {
+    max-width: 100% !important;}
+}
+
+
+.view-all-li {
+    display: none;
+}
+.page-id-52 .wpb_content_element {
+    margin-bottom: 0px;
+}
+
+.imp-links .menu-imp-links-container {
+    overflow-y: auto; height: 524px !important;}
+
+.c-event, .c-news, .inner-wrap {height: auto !important;overflow-y: auto !important;}
+
+.search.search-results .entry-meta,.entry-meta, .entry-footer{display:none;}
+
+.search.search-results .blog-default .hentry{ margin-bottom: 20px;padding-bottom: 20px;}
+
+
+
+@media screen and (max-width: 1023px) {
+.imp-links .menu-imp-links-container {
+    height: 450px !important;
+}
+span.logo-text {
+   font-size: 15px;}
+.orange-title {margin-top: 20px;}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.orange-title {
+    float: left;
+    width: 100%;
+}
+
+}
+
+.e-content h4 {
+    font-weight: 600;   
+}
+.input-group {
+  margin-bottom: 5px;}
+.down-li-body {
+    overflow-y: auto;
+    height: 275px !important;
+}
+.download-cotent label {
+    word-wrap: break-word;
+    display: block;
+}
+
+.d-flex {
+    font-size: 16px;
+}
+.d-flex .fa {
+    font-size: 30px;
+}
+.cspw-day-info {
+    display: none;
+	}
+.cspw-ico{
+float:right;
+}	
+
+.cspw-degree {
+    margin-left: 2%;
+    width: auto;
+    font-size: 30px;
+    line-height: normal;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    letter-spacing: 0px;
+	}
+.cspw-ico, .cspw-degree {
+    height: auto;
+    line-height: normal;
+    text-align: center;
+}	
+.cspw-tabs-wrap{
+display:none;
+}
+.cspw-weather {
+	    width: 230px !important;
+    background-image: none !important;
+    background-color: #555555 !important;
+    height: auto !important;
+}
+.cspw-date{    display: inline-block;
+    float: left;
+	margin-top: 8px;
+}
+.cspw-ico{
+	width:40px;
+}
+.cspw-container {
+	    margin-left: 5%;
+	width: 60%;
+	display: inline-block;
+    float: left;
+	height: auto !important;
+    position: static !important;
+}
+div.cspw-tab{
+	position: static !important;
+    left: 75px !important;
+}
+.cspw-degree>span span{
+	margin-top:0px !important;
+	margin-left:0px !important;
+	margin-right:0px !important;
+}
+.cspw-degree>span{
+	    margin-left: 0 !important;
+}
+.cs-top-module{
+  line-height:2px !important;
+}
+.custom-search-header{
+  float: none;
+  width: 100%;
+}
+.right-site-logo #site-logo{
+  float:right;
+}
+.current_page_item .cs-link{
+  color:#000;
+}
+.down-li-body img{
+  height: 65px !important;
+  width: 65px !important;
+}
+#site-nav ul li ul li .cs-link {
+  color: #000000 !important;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

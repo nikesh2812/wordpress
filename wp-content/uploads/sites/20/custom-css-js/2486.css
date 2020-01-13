@@ -1,0 +1,23 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@font-face {
+  font-family: 'Asees';
+  src: url('https://punjab-portal-beta.egovernments.org/wp-content/uploads/fonts/Asees.eot?#iefix') format('embedded-opentype'),
+       url('https://punjab-portal-beta.egovernments.org/wp-content/uploads/fonts/Asees.woff') format('woff'),
+	   url('https://punjab-portal-beta.egovernments.org/wp-content/uploads/fonts/Asees.ttf')  format('truetype'),
+	   url('https://punjab-portal-beta.egovernments.org/wp-content/uploads/fonts/Asees.svg#Asees') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GurbaniWebThick';
+  src: url('https://punjab-portal-beta.egovernments.org/wp-content/uploads/fonts/GurbaniWebThick.eot?#iefix') format('embedded-opentype'),
+       url('https://punjab-portal-beta.egovernments.org/wp-content/uploads/fonts/GurbaniWebThick.woff') format('woff'),
+	   url('https://punjab-portal-beta.egovernments.org/wp-content/uploads/fonts/GurbaniWebThick.ttf')  format('truetype'),
+	   url('https://punjab-portal-beta.egovernments.org/wp-content/uploads/fonts/GurbaniWebThick.svg#GurbaniWebThick') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

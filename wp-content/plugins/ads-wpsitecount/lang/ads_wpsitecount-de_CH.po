@@ -1,0 +1,587 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ADS-WpSiteCount v1.0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-19 23:20+0100\n"
+"PO-Revision-Date: 2019-01-05 14:09+0100\n"
+"Last-Translator: gorillale <gorillale@outlook.com>\n"
+"Language-Team: \n"
+"Language: de_CH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:30
+msgid "ADS-WpSiteCount - Small statistic"
+msgstr "ADS-WpSiteCount - Kleine Statistik"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:83
+msgid "The table shows the number of calls for each page."
+msgstr "Diese Tabelle zeigt die Anzahl Aufrufe der Seite."
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:84
+msgid "Not referring page addresses will not be displayed."
+msgstr "Eine unbenutze Seite wird hier nicht angezeigt."
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:95 includes/ads_dashwidget.php:144
+msgid "Page"
+msgstr "Seite"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:97 includes/ads_dashwidget.php:146
+msgid "from"
+msgstr "von"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:100
+msgid "rows"
+msgstr "zeilen"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:107
+msgid "Period"
+msgstr "Zeitraum"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:109 includes/ads_dashwidget.php:156
+msgid "All"
+msgstr "Alle"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:110 includes/ads_dashwidget.php:157
+msgid "Today"
+msgstr "Heute"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:111 includes/ads_dashwidget.php:158
+msgid "Week"
+msgstr "Woche"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:112 includes/ads_dashwidget.php:159
+msgid "Month"
+msgstr "Monat"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:115
+msgid "Count"
+msgstr "Zähler"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:116
+msgid "page"
+msgstr "Seite"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:136
+msgid "no data found"
+msgstr "keine Daten gefunden"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:163
+msgid "delete rows"
+msgstr "Zeilen löschen"
+
+# @ ads_wpsitecount
+#: includes/ads_dashwidget.php:164
+msgid "GO"
+msgstr "GO"
+
+#: includes/ads_options.php:50
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/ads_options.php:67
+msgid "Site Counter settings"
+msgstr "Site Counter Einstellungen"
+
+#: includes/ads_options.php:73
+msgid "General"
+msgstr "Generell"
+
+#: includes/ads_options.php:75
+msgid "Cleanup"
+msgstr "Bereinigung"
+
+#: includes/ads_options.php:77
+msgid "Statistic"
+msgstr "Statistik"
+
+#: includes/ads_options.php:79 includes/ads_options.php:81
+#: includes/ads_options.php:83
+msgid "Help"
+msgstr "Hilfe"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:110
+msgid ""
+"Translated by: <a target=\"_blank\" href=\"http://www.ad-soft.ch\">ad-"
+"software</a>"
+msgstr ""
+"Translated by: <a target=\"_blank\" href=\"http://www.ad-soft.ch\">ad-"
+"software</a>"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:140
+msgid "Counter Settings"
+msgstr "Besucherzähler"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:147
+msgid "Default Counter Value"
+msgstr "Standard-Wert Besucherzähler"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:156
+msgid "Set Counter to Default Value"
+msgstr "Zähler zum Standard-Wert Zurücksetzen"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:165
+msgid "Visitor-hit cooldown"
+msgstr "Abklingzeit Besucher-Hit"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:176
+msgid "Cleanup Settings"
+msgstr "Bereinigung"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:183
+msgid "Cleanup intervall"
+msgstr "Bereinigung's Intervall"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:192
+msgid "Max age of the IP to remove"
+msgstr "Maximales alter zur IP-Bereinigung"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:201
+msgid "Defines a comma-separated list of Robots, which prevents a count"
+msgstr ""
+"Definiert eine Komma-separierte Liste von Robot's, welche ein Zählen "
+"verhindern"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:212
+msgid "Short dashboard statistics"
+msgstr "Kleine Dashboard Statistik"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:219
+msgid "Page-hit cooldown"
+msgstr "Abklingzeit Seiten-Hit"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:276
+msgid "only 30 sec. to 24 hour supported on cyle time"
+msgstr "Es werden nur 30 Sek. bis 24 Std. beim IP-Zyklus Unterstützt"
+
+#: includes/ads_options.php:295
+msgid "( Enter cleanup interval from 1 days to 6 months )"
+msgstr "( Reinigung's Internall von 1 Tag bis 6 Monate )"
+
+#: includes/ads_options.php:309
+msgid "only 6 day to 9 months supported on cleanup"
+msgstr "nur 6 Tage bis 9 Monate verfügbar"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:328
+msgid "only 30 sec. to 1 hour supported on cyle time"
+msgstr "Zykluszeit Unterstützt nur 30 Sek. bis 1 Stunde"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:336
+#, php-format
+msgid "( Counter reseted to %s )"
+msgstr "( Zähler wurde gesetzt auf %s )"
+
+#: includes/ads_options.php:343
+msgid "( outdated hits were cleaned )"
+msgstr "( abgelaufene Treffer wurden bereinigt )"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:346
+msgid "WARNING: Cleanup time should be less than IP age"
+msgstr "WARNUNG: Bereinigungs-Zeit sollte kleiner sein, als das alter der IP"
+
+#: includes/ads_options.php:360
+msgid "To create a sort code, go to the respective page / blog."
+msgstr ""
+"Wenn Sie einen Kurz Code erstellen, gehen Sie zu der/dem Entsprechenden "
+"Seite oder Blog."
+
+#: includes/ads_options.php:362
+msgid "Use only image name that available on \"./counter\" plugin folder"
+msgstr ""
+"Benützen Sie nur Bildernamen die im \"./Counter\" plugin Ordner vorhanden "
+"sind"
+
+#: includes/ads_options.php:363
+msgid "Enter a short code, e.g."
+msgstr "Kurz Code Eingabe."
+
+#: includes/ads_options.php:366
+msgid "What args can i put on shotcode?"
+msgstr "Welche Parameter kann ich übergeben?"
+
+#: includes/ads_options.php:393
+msgid "How to use the placeholder?"
+msgstr "Wie benutze ich Platzhalter?"
+
+#: includes/ads_options.php:395
+msgid ""
+"On after or before text you can place placeholder. ( Info: change style on "
+"css please )"
+msgstr ""
+"Beim Text  'after' oder 'before' können Sie Platzhalter definieren. ( Info: "
+"Style bitte in CSS ändern )"
+
+#: includes/ads_options.php:407
+msgid ""
+"You can use your language on text fields selected from WP Locale, the WP "
+"Locale will take the right text for you"
+msgstr ""
+"Sie können die Text Felder mit einer Sprachoption versehen, die dann von WP "
+"die nach Sprache automatisch auswählt"
+
+#: includes/ads_options.php:411
+msgid "set multi text on the fields: title-, after-, before-widget"
+msgstr "setze Multi Text bei den Feldern: title-, after-, before-widget"
+
+#: includes/ads_options.php:423
+msgid "List of counter images"
+msgstr "Liste der Zählerbilder"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:445
+msgid "Example (copy & paste), white-space are removed on search:"
+msgstr ""
+"Beispiel ( kopieren & einfügen), Leerzeichen werden beim suchen entfernt:"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:459
+#, php-format
+msgid "( actual count: %s )"
+msgstr "( aktueller Zähler: %s )"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:466
+#, php-format
+msgid "( Last Reset on: %s )"
+msgstr "( Letzte Setzung am: %s )"
+
+#: includes/ads_options.php:469
+msgid "The counter is reset when saving with the above default counter value"
+msgstr "Der Zähler wird gereseted beim Speichern mit dem obigen Wert"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:483
+msgid "( Time, H:M:S )"
+msgstr "( Zeit, H:M:S )"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:485
+msgid "supports 30 sec. to 24 hours on ip cycle"
+msgstr "Es sind Eingaben von 30 Sekunden bis 24 Stunden erlaubt"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:495
+msgid "Statistic ON"
+msgstr "Statistik ein"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:497
+msgid "( Time, M:S )"
+msgstr "( Zeit, M:S )"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:499
+msgid "supports 30 sec. to 1 Hour on page cycle"
+msgstr "Seiten Zyklus unterstützt 30 Sek. bis 1 Stunde"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:509 includes/ads_options.php:521
+msgid "( Month / Day )"
+msgstr "( Monat / Tag )"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:511
+msgid "supports 6 day to 9 months to start cleanup"
+msgstr "Bereinigungszeit unterstützt 6 Tage bis 9 Monate"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:523
+#, php-format
+msgid "cleanup !now! ( next at %s )"
+msgstr "!jetzt! Bereinigen ( nächste um %s )"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:525
+msgid "supports 1 day to 6 months on cleanup"
+msgstr "Es sind Eingaben von 1 Tag bis 6 Monate erlaubt"
+
+# @ ads_wpsitecount
+#: includes/ads_options.php:526
+msgid "cleanup time should be less than IP age"
+msgstr "Bereinigungs-Zeit sollte kleiner sein, als das alter der IP"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:23
+msgid ""
+"Count the page hit from each ip and display a counter into widget or page."
+msgstr ""
+"Zählt die Seiten Hits jeder IP und zeigt einen grafischen Zähler auf der "
+"Sidebar oder einer Seite an."
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:123
+msgid "Visitor counter"
+msgstr "Besucher-Zähler"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:124
+msgid "Visits since 2014"
+msgstr "Besuche seit 2014"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:125
+#, php-format
+msgid "Welcome %dname"
+msgstr "Hallo %dname"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:126
+msgid "Your IP: %ip"
+msgstr "Deine IP: %ip"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:167
+msgid "Title text"
+msgstr "Titeltext"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:173
+msgid "Text before counter"
+msgstr "Ein Text vor dem Zähler"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:179
+msgid "Text after counter"
+msgstr "Ein Text nach dem Zähler"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:186
+msgid "Dynamic Image size width / hight / unit"
+msgstr "Dynamische Bildgrösse, Breite / Höhe / Einheit"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:200
+msgid "Maximal Image width on output ( 0 = fullsize)"
+msgstr "Maximale Bildbreite bei der Ausgabe ( 0 = maximal )"
+
+#: includes/ads_widgets.php:206
+msgid "Image-border size(px) / type / #color / radius(px)"
+msgstr "Bild Umrandung Grösse(px)/Typ/#Farbe/Radius(px)"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:228
+msgid "Counter image"
+msgstr "Zähler Typ"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:231
+msgid "Sorry, no counter image found"
+msgstr "Kein Zählerbild gefunden"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:241
+msgid "Counter align, length and block type"
+msgstr "Zähler Ausrichtung, Stellen und Blocktyp"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:243
+msgid "left"
+msgstr "links"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:244
+msgid "right"
+msgstr "rechts"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:245
+msgid "center"
+msgstr "zentriert"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:246 includes/ads_widgets.php:256
+#: includes/ads_widgets.php:272
+msgid "none"
+msgstr "nichts"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:261
+msgid "Other options"
+msgstr "Andere Optionen"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:262
+msgid "fill with zerro"
+msgstr "mit null füllen"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:265
+msgid "display as text"
+msgstr "nur als Text anzeigen"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:270
+msgid "Random counter selected"
+msgstr "Zufalls Zähler ein"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:273
+msgid "hourly"
+msgstr "stündlich"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:274
+msgid "dayli"
+msgstr "täglich"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:275
+msgid "weekly"
+msgstr "wöchentlich"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:276
+msgid "monthly"
+msgstr "monatlich"
+
+# @ ads_wpsitecount
+#: includes/ads_widgets.php:277
+msgid "every minute"
+msgstr "pro Minute"
+
+# @ ads_wpsitecount
+#~ msgid "Shortcode TinyMce Button"
+#~ msgstr "Kurzcode TinyMce Knopf"
+
+# @ ads_wpsitecount
+#~ msgid "active"
+#~ msgstr "aktiv"
+
+#~ msgid "If Tiny MCE Button not work you can disable here"
+#~ msgstr "Bei Problemen mit Tiny MCE, deaktivieren Sie diesen Knopf"
+
+# @ ads_wpsitecount
+#~ msgid "Insert Shortcode"
+#~ msgstr "Kurzcode einfügen"
+
+# @ ads_wpsitecount
+#~ msgid "Counter value"
+#~ msgstr "Zählerwert"
+
+# @ ads_wpsitecount
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+# @ ads_wpsitecount
+#~ msgid "Align"
+#~ msgstr "Ausrichtung"
+
+# @ ads_wpsitecount
+#~ msgid "Width"
+#~ msgstr "Breite"
+
+# @ ads_wpsitecount
+#~ msgid "Height"
+#~ msgstr "Höhe"
+
+# @ ads_wpsitecount
+#~ msgid "Unit"
+#~ msgstr "Einheit"
+
+# @ ads_wpsitecount
+#~ msgid "Max image size"
+#~ msgstr "Maximale Bildgrösse"
+
+# @ ads_wpsitecount
+#~ msgid "Digits"
+#~ msgstr "Stellen"
+
+# @ ads_wpsitecount
+#~ msgid "Fill zero"
+#~ msgstr "Mit Nullen füllen"
+
+# @ ads_wpsitecount
+#~ msgid "Text counter"
+#~ msgstr "Text Zähler"
+
+# @ ads_wpsitecount
+#~ msgid "Block type"
+#~ msgstr "Blocktyp"
+
+#~ msgid "Border Size"
+#~ msgstr "Dicke Umrandung"
+
+#~ msgid "Border Type"
+#~ msgstr "Umrandung"
+
+#~ msgid "Border color"
+#~ msgstr "Farbe Umrandung"
+
+#~ msgid "Border Radius"
+#~ msgstr "Radius Umrandung"
+
+# @ ads_wpsitecount
+#~ msgid "Wp Site Counter settings"
+#~ msgstr "Einstellungen Wp Besucher Zähler"
+
+# @ ads_wpsitecount
+#~ msgid "HINT: The counter will be reset on save settings"
+#~ msgstr "Hinweis: Der Zähler wird beim speichern zurückgestellt"
+
+# @ ads_wpsitecount
+#~ msgid "ADS-WpSiteCount"
+#~ msgstr "ADS-WpSiteCount"
+
+# @ ads_wpsitecount
+#~ msgid "ad-software"
+#~ msgstr "ad-software"
+
+# @ ads_wpsitecount
+#~ msgid "http://ad-soft.ch"
+#~ msgstr "http://ad-soft.ch"
+
+# @ ads_wpsitecount
+#~ msgid "only 1 day to 6 months supported on cleanup"
+#~ msgstr "es werden 1 Tag bis 6 Monate unterstützt"
+
+# @ ads_wpsitecount
+#~ msgid "www.ad-soft.ch/wpsitecount"
+#~ msgstr "www.ad-soft.ch/wpsitecount"
+
+# @ ads_wpsitecount
+#~ msgid "( Enter cleanup interval from 6 days to 9 months )"
+#~ msgstr ""
+#~ "( Eingabe der Bereinigung's-Intervall-Zeit von 6 Tagen bis 9 Monate )"
+
+# @ ads_wpsitecount
+#~ msgid "1.0.10"
+#~ msgstr "1.0.10"
