@@ -1,0 +1,21 @@
+name: test
+
+on:
+  push:
+    branches:
+      - nikesh2812-patch-2
+    paths-ignore:
+        - '.github/workflows/**'  
+  workflow_dispatch:
+  
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          repository: nikesh2812/wordpress
+          ref: ${{ github.ref_name }}
